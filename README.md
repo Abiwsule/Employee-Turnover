@@ -28,3 +28,4 @@ add image
 
 Produced a 1 page dashboard in Power BI
 insert image of dashboard
+![alt text](IMG_0189.png)
