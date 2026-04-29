@@ -14,11 +14,18 @@ There were some discrepancies with the data so I went ahead and cleaned it in Po
 | ----------- | ----------- |
 | ![alt text](IMG_0187.png) | ![alt text](IMG_0188.png) |
 
+
 - Replaced values “None” to 0 to avoid broken calculations
-add image
+| Before | After |
+| ----------- | ----------- |
+| ![alt text](IMG_0190.png) | ![alt text](IMG_0191.png) |
+
 
 - Added a conditional column for for the “Leaver” column and replaced the values of Yes and No to 1 and 0 to allow for easier calculations when creating the visuals.
-add image
+| Before | After |
+| ----------- | ----------- |
+| ![alt text](IMG_0192.png) | ![alt text](IMG_0193.png) |
+
 
 ## HIGHLIGHTS
 
