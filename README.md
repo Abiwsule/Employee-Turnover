@@ -9,10 +9,10 @@ This project analyses employee data to identify the key factors that may affect 
 There were some discrepancies with the data so I went ahead and cleaned it in Power Query.
 
 - Tidied inconsistent formatting in the BusinessTravel
-add image
 
+| Before | After |
+| ----------- | ----------- |
 | ![alt text](IMG_0187.png) | ![alt text](IMG_0188.png) |
-| before cleaning | after cleaning |
 
 - Replaced values “None” to 0 to avoid broken calculations
 add image
