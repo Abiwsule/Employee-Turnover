@@ -1,5 +1,8 @@
 # Employee-Turnover
 
+**Skills:** Data Cleaning, Data Analysis, Power Bi, Data Visualisation 
+**Tools:** Power BI
+
 ## PROJECT OVERVIEW
 
 This project analyses employee data to identify the key factors that may affect employee turnover. Using Power BI, I performed exploratory analysis to uncover insights and trends related to turnover
