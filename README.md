@@ -16,6 +16,7 @@ There were some discrepancies with the data so I went ahead and cleaned it in Po
 
 
 - Replaced values “None” to 0 to avoid broken calculations
+  
 | Before | After |
 | ----------- | ----------- |
 | ![alt text](IMG_0190.png) | ![alt text](IMG_0191.png) |
