@@ -11,6 +11,11 @@ There were some discrepancies with the data so I went ahead and cleaned it in Po
 - Tidied inconsistent formatting in the BusinessTravel
 add image
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| ![alt text](IMG_0187.png) | ![alt text](IMG_0188.png) |
+
 - Replaced values “None” to 0 to avoid broken calculations
 add image
 
