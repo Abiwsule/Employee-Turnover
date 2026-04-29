@@ -23,6 +23,7 @@ There were some discrepancies with the data so I went ahead and cleaned it in Po
 
 
 - Added a conditional column for for the “Leaver” column and replaced the values of Yes and No to 1 and 0 to allow for easier calculations when creating the visuals.
+
 | Before | After |
 | ----------- | ----------- |
 | ![alt text](IMG_0192.png) | ![alt text](IMG_0193.png) |
