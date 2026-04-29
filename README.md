@@ -1,6 +1,7 @@
 # Employee-Turnover
 
-**Skills:** Data Cleaning, Data Analysis, Power Bi, Data Visualisation 
+**Skills:** Data Cleaning, Data Analysis, Power Bi, Data Visualisation
+
 **Tools:** Power BI
 
 ## PROJECT OVERVIEW
